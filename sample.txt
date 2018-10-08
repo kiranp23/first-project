@@ -1,1 +1,2 @@
 echo "dummy file"
+echo "adding new line"
